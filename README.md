@@ -927,14 +927,15 @@ contacts.html
 
 
 ## service.html:
-![Screenshot (139)](https://github.com/820NaveenKumar208/softweb/assets/154746066/75c6ae9e-b9db-46e5-9825-48e7827df709)
 
+![Screenshot (140)](https://github.com/820NaveenKumar208/softweb/assets/154746066/948c6415-47fa-48c5-8586-50b6d96650b8)
 
 
 
 
 ## contact.html:
-![Uploading Screenshot (138).png…]()
+![Screenshot (138)](https://github.com/820NaveenKumar208/softweb/assets/154746066/d19a2d08-0779-4348-9cb4-5588bc34bc10)
+
 
 
 
