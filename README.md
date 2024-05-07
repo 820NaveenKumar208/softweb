@@ -916,23 +916,25 @@ contacts.html
 
 ## OUTPUT:
 ## home.html:
-![alt text](<webapp/static/Screenshot (141).png>)
+![Screenshot (141)](https://github.com/820NaveenKumar208/softweb/assets/154746066/5cb2ac87-97d0-44c7-a652-5571e9446779)
+
 
 ## product.html:
 
-![alt text](<webapp/static/Screenshot (139).png>)
+![Screenshot (139)](https://github.com/820NaveenKumar208/softweb/assets/154746066/b41dcc55-9fe3-4a2d-874e-e8df072a3b63)
+
 
 
 
 ## service.html:
+![Screenshot (139)](https://github.com/820NaveenKumar208/softweb/assets/154746066/75c6ae9e-b9db-46e5-9825-48e7827df709)
 
-![alt text](<webapp/static/Screenshot (140).png>)
+
 
 
 
 ## contact.html:
-![alt text](<webapp/static/Screenshot (138).png>)
-
+![Uploading Screenshot (138).png…]()
 
 
 
